@@ -1,2 +1,2 @@
-# Max HEap Tree {Result Image}
-![](/6-huffman.png).
+# 6-huffman {Result Image}
+![](./6-huffman.png).
