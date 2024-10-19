@@ -1,2 +1,2 @@
 # Max HEap Tree {Result Image}
-![](/image.png).
+![](/6-sortbyheap.png).
